@@ -66,8 +66,9 @@ A lightweight, database-less currency converter built with native PHP, Tailwind 
 
 Click the preview image below to watch the full system walkthrough on Google Drive:
 
-<a href="YOUR_DRIVE_VIDEO_LINK" target="_blank">
-  <img src="docs/screenshots/walkthrough-cover.png" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+<a href="https://drive.google.com/file/d/1j_8GVB1G8yZ8d1hxs0ZTlRyg7IWQf1tT/view?usp=drive_link" target="_blank">
+ <img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/b8ee3f46-926c-47cc-9739-32895a117014" />
+
 </a>
 
 ---
@@ -77,7 +78,8 @@ Click the preview image below to watch the full system walkthrough on Google Dri
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/01-converter.png" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/d93b4f36-a929-4656-8fb3-35c541a27760" />
+
     </td>
     <td width="50%">
       <img src="docs/screenshots/02-history.png" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
