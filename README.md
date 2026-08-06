@@ -80,10 +80,7 @@ Click the preview image below to watch the full system walkthrough on Google Dri
     <td width="50%">
 <img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/d93b4f36-a929-4656-8fb3-35c541a27760" />
 
-    </td>
-    <td width="50%">
-      <img src="docs/screenshots/02-history.png" width="100%" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
-    </td>
+  
   </tr>
 </table>
 
